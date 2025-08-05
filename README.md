@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hey, I'm exo1tap
 
-<!--
-**exo1taponcw/exo1taponcw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=exo1tap&color=blueviolet)
+![GitHub Followers](https://img.shields.io/github/followers/exo1tap?label=Follow&style=social)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+### 💼 Hosting Owner & Minecraft Server Architect
+
+I'm the founder of **[LoyalHOOD](https://loyalhood.xyz)** — a hosting provider focused on performance, flexibility, and community.  
+With over **3 years** of experience, I specialize in crafting fully optimized Minecraft servers tailored to each project's needs.
+
+I’ve worked on setups ranging from basic hobby servers to larger-scale projects like **TerraMC** and **DragonRomania**, helping them run smoother, faster, and more professionally.
+
+---
+
+## ⚙️ What I’m Focused On
+
+- 🖥️ Running my own hosting platform: **LoyalHOOD**  
+- 🧩 Developing custom Pterodactyl eggs (Minecraft & Node.js)  
+- 🤖 Building and maintaining a private Discord bot  
+- 📡 Expanding my infrastructure with IPv6-only support  
+- 💼 Open to freelance server config work or hosting partnerships  
+
+---
+
+## 🧰 My Toolbox
+
+| Skill / Area                    | Level                      |
+|----------------------------------|-----------------------------|
+| Minecraft Server Configuration   | 🟩 Expert                   |
+| Pterodactyl Panel Management     | 🟩 Advanced                 |
+| Discord.js Bot Development       | 🟨 Learning in Progress     |
+| Node.js App Hosting              | 🟨 Basic Experience         |
+| Minecraft Plugin Development     | 🟥 Yet to Learn             |
+
+---
+
+## 🌐 Reach Me
+
+- 🌍 Website: [https://loyalhood.xyz](https://loyalhood.xyz)  
+- 💬 Discord: [https://loyalhood.xyz/discord](https://loyalhood.xyz/discord)
+
+---
+
+> ⚡ “Build smart. Host better. Stay loyal.” – Powered by LoyalHOOD
