@@ -1,8 +1,5 @@
 # 👋 Hey, I'm exo1tap
 
-![Profile Views](https://komarev.com/ghpvc/?username=exo1taponcw&color=blueviolet)
-![GitHub Followers](https://img.shields.io/github/followers/exo1taponcw?label=Follow&style=social)
-
 ---
 
 ## 🧠 About Me
