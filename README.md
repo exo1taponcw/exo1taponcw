@@ -1,7 +1,7 @@
 # 👋 Hey, I'm exo1tap
 
-![Profile Views](https://komarev.com/ghpvc/?username=exo1tap&color=blueviolet)
-![GitHub Followers](https://img.shields.io/github/followers/exo1tap?label=Follow&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=exo1taponcw&color=blueviolet)
+![GitHub Followers](https://img.shields.io/github/followers/exo1taponcw?label=Follow&style=social)
 
 ---
 
@@ -19,9 +19,8 @@ I’ve worked on setups ranging from basic hobby servers to larger-scale project
 ## ⚙️ What I’m Focused On
 
 - 🖥️ Running my own hosting platform: **LoyalHOOD**  
-- 🧩 Developing custom Pterodactyl eggs (Minecraft & Node.js)  
 - 🤖 Building and maintaining a private Discord bot  
-- 📡 Expanding my infrastructure with IPv6-only support  
+- 📡 Expanding my infrastructure with IPv4 support  
 - 💼 Open to freelance server config work or hosting partnerships  
 
 ---
