@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hey, I'm exo1tap</h1>
+<h1 align="center">👋 Hey, I'm 298mm</h1>
 <p align="center">
-  🧠 Hosting Owner & Minecraft Server Architect | Founder of <a href="https://loyalhood.xyz">LoyalHOOD</a>
+  🧠 Hosting Owner & Minecraft Server Architect | Founder of <a href="https://zenovahosting.xyz">ZenovaHosting</a>
 </p>
 
 ---
@@ -11,16 +11,16 @@
 
 🏗️ I’ve built everything from casual hobby servers to full-scale public setups like **TerraMC** and **DragonRomania**, delivering performance, reliability, and fine-tuned configurations.
 
-🚀 I now channel that energy into **[LoyalHOOD](https://loyalhood.xyz)** — a modern hosting platform designed for creators, developers, and communities who want more control.
+🚀 I now channel that energy into **[ZenovaHosting](https://zenovahosting.xyz)** — a modern hosting platform designed for creators, developers, and communities who want more control.
 
 ---
 
 ## ⚙️ What I’m Focused On
 
-- 🖥️ Running my hosting brand: **LoyalHOOD**
-- 🤖 Developing & maintaining a private Discord bot
-- 🌍 Expanding infrastructure with **IPv6/IPv4** hybrid nodes
-- 🤝 Open to **freelance** config gigs or **partnerships**
+-  Running my hosting brand: **LoyalHOOD**
+-  Developing & maintaining a private Discord bot
+-  Expanding infrastructure with **IPv6/IPv4** hybrid nodes
+-  Open to **freelance** config gigs or **partnerships**
 
 ---
 
@@ -31,16 +31,16 @@
 | Minecraft Server Configuration   | 🟩 Expert                   |
 | Pterodactyl Panel Management     | 🟩 Advanced                 |
 | Discord.js Bot Development       | 🟨 Learning in Progress     |
-| Node.js App Hosting              | 🟨 Basic Experience         |
+| Node.js App Hosting              | 🟩 Advanced                 |
 | Minecraft Plugin Development     | 🟥 Yet to Learn             |
 
 ---
 
 ## 📫 Reach Me
 
-- 🌐 Website: [loyalhood.xyz](https://loyalhood.xyz)
-- 💬 Discord: [loyalhood.xyz/discord](https://loyalhood.xyz/discord)
+- 🌐 Website: [zenovahosting.xyz](https://zenovahosting.xyz)
+- 💬 Discord: [zenovahosting.xyz/discord](https://zenovahosting.xyz/discord)
 
 ---
 
-> ⚡ *“Build smart. Host better. Stay loyal.”* — Powered by **LoyalHOOD**
+> ⚡ *“Build smart. Host better. Stay loyal.”* — Powered by **ZenovaHosting**
